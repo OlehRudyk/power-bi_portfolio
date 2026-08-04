@@ -1,4 +1,3 @@
-# power-bi_portfolio
 # 📊 Power BI & Business Intelligence Portfolio
 
 ## 🎯 About This Repository
