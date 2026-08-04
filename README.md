@@ -64,7 +64,6 @@
 ---
 
 ## 🛠 Технічний стек (Tech Stack)
-*   **BI Tools:** Power BI Desktop, Tableau
+*   **BI Tools:** Power BI Desktop
 *   **Data Processing:** Power Query, DAX
-*   **Databases:** SQL
-*   **Geospatial:** Power BI Shape Maps, QGIS
+*   **Geospatial:** Power BI Shape Maps
